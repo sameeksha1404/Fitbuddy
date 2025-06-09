@@ -1,0 +1,12 @@
+# MATLAB
+*.asv
+*.m~
+*.mat
+.DS_Store
+
+# Python models
+_pycache_/
+*.pkl
+
+# Logs and outputs
+*.log
